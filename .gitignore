@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+Collected_litterRoad/
+osprey/
+PegasusSimulator/
+PX4-Autopilot/
